@@ -17,10 +17,10 @@ require (
 	github.com/akutz/memconn v0.1.1-0.20211110233653-dae351d188b3
 	github.com/auth0/go-jwt-middleware/v2 v2.3.0
 	github.com/aws/aws-sdk-go-v2 v1.36.3
-	github.com/aws/aws-sdk-go-v2/config v1.29.9
-	github.com/aws/aws-sdk-go-v2/credentials v1.17.62
-	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.66
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.78.2
+	github.com/aws/aws-sdk-go-v2/config v1.28.11
+	github.com/aws/aws-sdk-go-v2/credentials v1.17.52
+	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.49
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.72.3
 	github.com/aws/smithy-go v1.22.3
 	github.com/benbjohnson/clock v1.3.5
 	github.com/blang/semver v3.5.1+incompatible
